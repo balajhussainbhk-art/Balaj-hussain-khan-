@@ -1,45 +1,44 @@
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <!-- Homepage -->
   <url>
     <loc>https://balaj-hussain-khan.vercel.app/</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Blog -->
+  <!-- Main Pages -->
   <url>
     <loc>https://balaj-hussain-khan.vercel.app/blog/</loc>
+    <lastmod>2026-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Blog Articles -->
+  <!-- Blog Posts -->
   <url>
     <loc>https://balaj-hussain-khan.vercel.app/blog/digital-marketing-trends-2026.html</loc>
+    <lastmod>2026-08-25</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-
   <url>
     <loc>https://balaj-hussain-khan.vercel.app/blog/geo-for-ecommerce.html</loc>
+    <lastmod>2026-08-25</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-
   <url>
     <loc>https://balaj-hussain-khan.vercel.app/blog/technical-seo-checklist.html</loc>
+    <lastmod>2026-08-25</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-
   <url>
     <loc>https://balaj-hussain-khan.vercel.app/blog/why-domain-name-matters-for-seo.html</loc>
+    <lastmod>2026-08-25</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-
 </urlset>
-```
