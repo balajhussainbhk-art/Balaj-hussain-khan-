@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://balaj-hussain-khan.vercel.app/sitemap.xml
